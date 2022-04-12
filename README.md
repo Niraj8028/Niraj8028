@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Niraj8028...  
+- 👋 Hi, I’m @Niraj8028..
 
 🔭 I’m currently working on "React Projects"
 
